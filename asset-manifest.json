@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/therapy-alliance/static/css/main.8eb20739.css",
-    "main.js": "/therapy-alliance/static/js/main.e11f46bb.js",
-    "static/js/787.7ac85b82.chunk.js": "/therapy-alliance/static/js/787.7ac85b82.chunk.js",
-    "static/media/handshake.jpg": "/therapy-alliance/static/media/handshake.9f0a44af48b9f215f3a5.jpg",
-    "static/media/Contact.jpeg": "/therapy-alliance/static/media/Contact.6e5aaaf8f463869112a2.jpeg",
-    "static/media/therapyStock.jpeg": "/therapy-alliance/static/media/therapyStock.375f2f71085e8c552f81.jpeg",
-    "static/media/physicalTherapy.jpeg": "/therapy-alliance/static/media/physicalTherapy.38c742ea5b7a254e2b5b.jpeg",
-    "static/media/hand.jpeg": "/therapy-alliance/static/media/hand.58641ff987803c0c02ee.jpeg",
-    "static/media/ReasonOne.png": "/therapy-alliance/static/media/ReasonOne.528fc98f212a2953a9dd.png",
-    "static/media/ReasonThree.png": "/therapy-alliance/static/media/ReasonThree.b2392531f05a60e3a2a9.png",
-    "static/media/Banner-SLP.png": "/therapy-alliance/static/media/Banner-SLP.93f4c10d445a866e038c.png",
-    "static/media/ReasonTwo.png": "/therapy-alliance/static/media/ReasonTwo.758635166e40dd176eb5.png",
-    "static/media/Banner-PT.png": "/therapy-alliance/static/media/Banner-PT.921c3e49446453edc16a.png",
-    "static/media/Banner-OT.png": "/therapy-alliance/static/media/Banner-OT.d23770f1db5ac35f14e1.png",
-    "static/media/David.jpg": "/therapy-alliance/static/media/David.9c5be5bb2390e476169a.jpg",
-    "static/media/Tony.jpg": "/therapy-alliance/static/media/Tony.8c177ab57e6b1cf3b912.jpg",
-    "static/media/stockColored.jpeg": "/therapy-alliance/static/media/stockColored.ad4e39bf89dd55409e0c.jpeg",
-    "static/media/logo.png": "/therapy-alliance/static/media/logo.1e53f9624b0b478dc3d1.png",
-    "index.html": "/therapy-alliance/index.html",
-    "main.8eb20739.css.map": "/therapy-alliance/static/css/main.8eb20739.css.map",
-    "main.e11f46bb.js.map": "/therapy-alliance/static/js/main.e11f46bb.js.map",
-    "787.7ac85b82.chunk.js.map": "/therapy-alliance/static/js/787.7ac85b82.chunk.js.map"
+    "main.css": "/static/css/main.8eb20739.css",
+    "main.js": "/static/js/main.9e5b36cb.js",
+    "static/js/787.7ac85b82.chunk.js": "/static/js/787.7ac85b82.chunk.js",
+    "static/media/handshake.jpg": "/static/media/handshake.9f0a44af48b9f215f3a5.jpg",
+    "static/media/Contact.jpeg": "/static/media/Contact.6e5aaaf8f463869112a2.jpeg",
+    "static/media/therapyStock.jpeg": "/static/media/therapyStock.375f2f71085e8c552f81.jpeg",
+    "static/media/physicalTherapy.jpeg": "/static/media/physicalTherapy.38c742ea5b7a254e2b5b.jpeg",
+    "static/media/hand.jpeg": "/static/media/hand.58641ff987803c0c02ee.jpeg",
+    "static/media/ReasonOne.png": "/static/media/ReasonOne.528fc98f212a2953a9dd.png",
+    "static/media/ReasonThree.png": "/static/media/ReasonThree.b2392531f05a60e3a2a9.png",
+    "static/media/Banner-SLP.png": "/static/media/Banner-SLP.93f4c10d445a866e038c.png",
+    "static/media/ReasonTwo.png": "/static/media/ReasonTwo.758635166e40dd176eb5.png",
+    "static/media/Banner-PT.png": "/static/media/Banner-PT.921c3e49446453edc16a.png",
+    "static/media/Banner-OT.png": "/static/media/Banner-OT.d23770f1db5ac35f14e1.png",
+    "static/media/David.jpg": "/static/media/David.9c5be5bb2390e476169a.jpg",
+    "static/media/Tony.jpg": "/static/media/Tony.8c177ab57e6b1cf3b912.jpg",
+    "static/media/stockColored.jpeg": "/static/media/stockColored.ad4e39bf89dd55409e0c.jpeg",
+    "static/media/logo.png": "/static/media/logo.1e53f9624b0b478dc3d1.png",
+    "index.html": "/index.html",
+    "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
+    "main.9e5b36cb.js.map": "/static/js/main.9e5b36cb.js.map",
+    "787.7ac85b82.chunk.js.map": "/static/js/787.7ac85b82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.e11f46bb.js"
+    "static/js/main.9e5b36cb.js"
   ]
 }
