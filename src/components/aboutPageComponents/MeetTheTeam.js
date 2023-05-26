@@ -19,7 +19,7 @@ export default function MeetTheTeam() {
   }
 
   const imgStyles = {
-    height: isMobile ? '45vh' : '60vh',
+    height: isMobile ? '35vh' : '60vh',
     width: isMobile ? '70vw' : '25vw',
     borderRadius: '10%'
   }
@@ -27,7 +27,7 @@ export default function MeetTheTeam() {
   return (
     <Box>{isMobile ? (
       <Grid container spacing={3} sx={{ backgroundColor: 'primary.light', px: isMobile ? '10vw' : '15vw', }}>
-        <Grid item xs={12} md={12} sx={{ mt: '5vh' }}>
+        <Grid item xs={12} md={12} sx={{ mt: isMobile ? '2vh' : '5vh' }}>
           <Typography variant='h3'>
             Meet The Team
           </Typography>

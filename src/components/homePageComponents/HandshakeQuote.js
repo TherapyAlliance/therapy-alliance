@@ -8,17 +8,17 @@ export default function HandshakeQuote() {
   const imageStyles = {
     height: isMobile ? '100%' : '80%',
     borderRadius: '20%',
-    overflow: 'hidden'
+    overflow: 'hidden',
   }
 
   return (
     <Box sx={{ backgroundColor: 'primary.light', px: '10vw' }}>
       <Grid container>
-        <Grid item xs={12} md={6} sx={{ display: 'flex', justifyContent: 'center', my: isMobile ? 0 : '5vh', p: 3 }}>
+        <Grid item xs={12} md={6} sx={{ display: 'flex', justifyContent: 'center', mt: isMobile ? '3vh' : '0', alignItems: 'center' }}>
           <img src={handshake} alt='handshake photo' style={imageStyles} />
         </Grid>
-        <Grid item xs={12} md={6} sx={{ mb: isMobile ? '10vh' : '0', p: 3 }}>
-          <Typography variant='h3' sx={{ mt: isMobile ? '0' : '5vh', mb: '3vh' }}>
+        <Grid item xs={12} md={6} sx={{ mb: isMobile ? '5vh' : '0', p: 3, mt: '3vh' }}>
+          <Typography variant='h3' sx={{ mt: isMobile ? '0' : '5vh', mb: '3vh', }}>
             We will work for you!
           </Typography>
           <Typography variant='h5' sx={{ color: '#777777' }}>
@@ -33,7 +33,7 @@ export default function HandshakeQuote() {
             and contribute directly to reshaping the future of healthcare. Together, let's make a significant impact with
             TD Therapy Alliance.
           </Typography>
-          <Typography style={{ fontFamily: "Lucida Calligraphy", }}>
+          <Typography sx={{ fontFamily: "Lucida Calligraphy", mt: '7vh', fontSize: '1.5rem' }}>
             "Beyond Recovery, Towards Optimal Health: Our Vision For Therapy"
           </Typography>
         </Grid>

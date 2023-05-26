@@ -125,7 +125,7 @@ export default function Footer() {
       </Grid>
       <Box sx={{ backgroundColor: '#008e82', minHeight: '5vh', display: 'flex', justifyContent: 'center', alignItems: 'center', textAlign: 'center', flexWrap: 'wrap' }}>
         <Typography variant='body1' sx={{ color: '#eeeeee' }}>
-          ©2023 John Nam. All Rights Reserved.
+          ©2023 TD Therapy Alliance. All Rights Reserved.
         </Typography>
       </Box>
     </Box>

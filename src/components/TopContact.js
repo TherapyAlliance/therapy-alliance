@@ -15,7 +15,7 @@ export default function TopContact() {
     boxShadow: '0 0 2px rgba(0, 0, 0, 0.3)',
     color: '#eeeeee',
     fontSize: '1.75rem',
-    mr: '1vw',
+    ml: '1vw',
     borderRadius: '30%'
   };
 

@@ -16,7 +16,7 @@ export default function Mission() {
   return (
     <Box>
       <Grid container sx={{ backgroundColor: 'primary.dark', px: '15vw' }}>
-        <Grid item xs={12} md={12} sx={{ mb: '5vh', mt: '10vh' }}>
+        <Grid item xs={12} md={12} sx={{ mb: '5vh', mt: isMobile ? '5vh' : '10vh' }}>
           <Typography variant='h3'>
             Who Are We
           </Typography>
@@ -43,7 +43,7 @@ export default function Mission() {
             professional development, we aim to cultivate leading health care providers of the future.
           </Typography>
         </Grid>
-        <Grid item xs={12} md={12} sx={{ mb: '10vh' }}>
+        <Grid item xs={12} md={12} sx={{ mb: isMobile ? '3vh' : '10vh' }}>
           <Typography variant='h4' sx={sectionTitles}>
             Values:
           </Typography>
