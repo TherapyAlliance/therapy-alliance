@@ -113,6 +113,7 @@ export default function Footer() {
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.7561165607276!2d-95.34515309999999!3d30.043853900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640b4d141e1f53f%3A0xee26d6878410a62c!2s22742%20Cypresswood%20Dr%20%231174%2C%20Spring%2C%20TX%2077373!5e0!3m2!1sen!2sus!4v1684249295022!5m2!1sen!2sus"
               width='80%'
               height="100%"
+              title='Google Maps Location'
               allowFullScreen
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade" />
